@@ -51,7 +51,7 @@ Various utilities and computations:
 
 ---
 
-## 🧩 Divide & Conquer Strategies  
+##  Divide & Conquer Strategies  
 Recursive solutions leveraging the divide and conquer paradigm:
 
 - **Binary Search**  
